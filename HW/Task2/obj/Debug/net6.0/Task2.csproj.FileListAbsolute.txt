@@ -1,0 +1,15 @@
+D:\SkillFactory\Module9\HW\Task2\bin\Debug\net6.0\Task2.exe
+D:\SkillFactory\Module9\HW\Task2\bin\Debug\net6.0\Task2.deps.json
+D:\SkillFactory\Module9\HW\Task2\bin\Debug\net6.0\Task2.runtimeconfig.json
+D:\SkillFactory\Module9\HW\Task2\bin\Debug\net6.0\Task2.dll
+D:\SkillFactory\Module9\HW\Task2\bin\Debug\net6.0\Task2.pdb
+D:\SkillFactory\Module9\HW\Task2\obj\Debug\net6.0\Task2.csproj.AssemblyReference.cache
+D:\SkillFactory\Module9\HW\Task2\obj\Debug\net6.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\SkillFactory\Module9\HW\Task2\obj\Debug\net6.0\Task2.AssemblyInfoInputs.cache
+D:\SkillFactory\Module9\HW\Task2\obj\Debug\net6.0\Task2.AssemblyInfo.cs
+D:\SkillFactory\Module9\HW\Task2\obj\Debug\net6.0\Task2.csproj.CoreCompileInputs.cache
+D:\SkillFactory\Module9\HW\Task2\obj\Debug\net6.0\Task2.dll
+D:\SkillFactory\Module9\HW\Task2\obj\Debug\net6.0\refint\Task2.dll
+D:\SkillFactory\Module9\HW\Task2\obj\Debug\net6.0\Task2.pdb
+D:\SkillFactory\Module9\HW\Task2\obj\Debug\net6.0\Task2.genruntimeconfig.cache
+D:\SkillFactory\Module9\HW\Task2\obj\Debug\net6.0\ref\Task2.dll
